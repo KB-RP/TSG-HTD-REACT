@@ -1,0 +1,13 @@
+.card{
+  max-width : 300px;
+  margin : auto;
+  text-align : center;
+  font-family : arial;
+  box-shadow : 0 4px 8px 0;
+  border : 2px solid black;
+}
+
+.designation:hover{
+  background-color : Yellow;
+}
+
